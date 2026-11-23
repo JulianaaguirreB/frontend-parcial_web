@@ -1,0 +1,8 @@
+body { margin: 20px; background: white; color: black; font-family: Arial, sans-serif; }
+section { margin-bottom: 24px; }
+form { display: grid; gap: 8px; max-width: 320px; }
+input { padding: 4px; font: inherit; }
+button { justify-self: start; padding: 4px 12px; font: inherit; }
+.tabla { overflow-x: auto; }
+table { border-collapse: collapse; }
+th, td { border: 1px solid black; padding: 6px 12px; text-align: left; }
